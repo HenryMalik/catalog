@@ -1,0 +1,9 @@
+#root {
+    background-color: rgb(67, 67, 69);
+}
+
+.ProductList {
+    box-shadow: -2px 5px 8px 1px black;
+    border-style: solid;
+    border-color: lightgray;
+}
